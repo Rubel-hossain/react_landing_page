@@ -8,7 +8,9 @@
     "react-fontawesome": "^1.6.1",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
-    "react-sidenav": "^2.1.2"
+    "react-sidenav": "^2.1.2",
+    "react-simple-sidenav": "^0.1.6",
+    "react-slick": "^0.23.1"
   },
   "scripts": {
     "start": "react-scripts start",
