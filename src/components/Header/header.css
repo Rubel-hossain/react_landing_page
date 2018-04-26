@@ -1,0 +1,13 @@
+.header {
+    background:#242424;
+    border: 1px solid #000;
+}
+
+.headerOpt {
+    display: flex;
+}
+
+.logo {
+    flex-grow:1;
+    padding-top: 10px;
+}
