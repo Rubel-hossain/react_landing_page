@@ -1,0 +1,17 @@
+.option {
+    padding: 10px;
+    color:#444;
+    text-transform: uppercase;
+}
+
+.option a {
+    color:#444;
+    transition: all .4s linear 0s;
+}
+
+.option a:hover {
+    color:#00d747;
+}
+.option a span {
+    padding-right: 10px;
+}
