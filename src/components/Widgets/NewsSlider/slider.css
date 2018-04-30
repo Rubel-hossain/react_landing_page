@@ -1,0 +1,7 @@
+.feature_image {
+    height: 330px;
+    background-size: cover;
+}
+.feature_item {
+  position: relative;
+}
